@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "description": "AFT Mobile verified sermon audio catalogue",
+  "sermons": [
+    {
+      "wordpress_id": 19876,
+      "title": "How Grace Changes Us? (Part 12): Fruit of the Spirit",
+      "libsyn_episode": 260,
+      "audio_url": "https://traffic.libsyn.com/secure/revsam/AGG55EE_13FEB22.mp3?dest-id=421393",
+      "duration": "01:14:16",
+      "verified": true
+    },
+    {
+      "wordpress_id": 19686,
+      "title": "How Grace Changes Us? (Part 11): Endurance",
+      "libsyn_episode": 259,
+      "audio_url": "https://traffic.libsyn.com/secure/revsam/AGG54EE_06FEB22.mp3?dest-id=421393",
+      "duration": "01:11:27",
+      "verified": true
+    }
+  ]
+}
