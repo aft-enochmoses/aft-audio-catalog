@@ -20,11 +20,75 @@
     },
     {
       "wordpress_id": 19476,
-  "title": "How Grace Changes Us? (Part 10): Truth",
-  "libsyn_episode": 258,
-  "audio_url": "https://traffic.libsyn.com/secure/revsam/AGG53EE_30JAN22.mp3?dest-id=421393",
-  "duration": "01:09:15",
-  "verified": true
-}
+      "title": "How Grace Changes Us? (Part 10): Truth",
+      "libsyn_episode": 258,
+      "audio_url": "https://traffic.libsyn.com/secure/revsam/AGG53EE_30JAN22.mp3?dest-id=421393",
+      "duration": "01:09:15",
+      "verified": true
+    },
+    {
+      "wordpress_id": 19242,
+      "title": "How Grace Changes Us? (Part 9): Pride",
+      "libsyn_episode": 257,
+      "audio_url": "https://traffic.libsyn.com/secure/revsam/AGG52EE_23JAN22.mp3?dest-id=421393",
+      "duration": "01:05:55",
+      "verified": false
+    },
+    {
+      "wordpress_id": 18906,
+      "title": "How Grace Changes Us? (Part 7): Peace",
+      "libsyn_episode": 255,
+      "audio_url": "https://traffic.libsyn.com/secure/revsam/AGG50EE_09JAN22.mp3?dest-id=421393",
+      "duration": "01:02:05",
+      "verified": false
+    },
+    {
+      "wordpress_id": 18745,
+      "title": "How Grace Changes Us? (Part 6): Kindness",
+      "libsyn_episode": 254,
+      "audio_url": "https://traffic.libsyn.com/secure/revsam/AGG49EE_02JAN22.mp3?dest-id=421393",
+      "duration": "01:15:24",
+      "verified": false
+    },
+    {
+      "wordpress_id": 18636,
+      "title": "How Grace Changes Us? (Part 5): Forgiveness",
+      "libsyn_episode": 253,
+      "audio_url": "https://traffic.libsyn.com/secure/revsam/AGG48EE_19DEC21.mp3?dest-id=421393",
+      "duration": "01:06:48",
+      "verified": false
+    },
+    {
+      "wordpress_id": 18420,
+      "title": "How Grace Changes Us? (Part-4)",
+      "libsyn_episode": 252,
+      "audio_url": "https://traffic.libsyn.com/secure/revsam/AGG47EE_05DEC21.mp3?dest-id=421393",
+      "duration": "01:16:44",
+      "verified": false
+    },
+    {
+      "wordpress_id": 18237,
+      "title": "How Grace Changes Us? (Part-3)",
+      "libsyn_episode": 251,
+      "audio_url": "https://traffic.libsyn.com/secure/revsam/VCF_Tech_Team_-_AGG46EE_28NOV21.mp3?dest-id=421393",
+      "duration": "01:10:12",
+      "verified": false
+    },
+    {
+      "wordpress_id": 18113,
+      "title": "How Grace Changes Us? (Part-2)",
+      "libsyn_episode": 250,
+      "audio_url": "https://traffic.libsyn.com/secure/revsam/AGG45EE_21NOV21.mp3?dest-id=421393",
+      "duration": "01:18:44",
+      "verified": false
+    },
+    {
+      "wordpress_id": 17928,
+      "title": "How Grace Changes Us?",
+      "libsyn_episode": 249,
+      "audio_url": "https://traffic.libsyn.com/secure/revsam/AGG44EE_14NOV21.mp3?dest-id=421393",
+      "duration": "01:09:57",
+      "verified": false
+    }
   ]
 }
